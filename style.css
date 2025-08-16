@@ -147,8 +147,8 @@ slideshow-container {
 }
 /* Contact Section with Mumbai Map Background */
  .contact-section {
-	position :relative; 
-  background-image: url('images/mumbai-map.png');
+ position: relative; 
+  background-image: url('mumbai-map.png');
   background-size: cover;
   background-position: center;
   color: white;
@@ -198,3 +198,4 @@ footer {
   text-align: center;
   padding: 1rem;
 }
+
